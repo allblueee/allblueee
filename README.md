@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @allblueee
-- 👀 I’m interested in frontend
 - 🌱 I want to be a cool geek
 - 👬🏻 I want to make friends with you
 - 🏙 I like living in different cities
